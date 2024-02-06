@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrograIVTarea2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec32f828bd3617b492a6fd6d94a973990b9788a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrograIVTarea2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrograIVTarea2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

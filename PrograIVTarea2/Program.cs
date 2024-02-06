@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string[] medias = { "Rojo", "Azul", "Rojo", "Blanco", "Blanco", "Negro", "Rojo", "Azul", "Blanco" };
         }
     }
 }

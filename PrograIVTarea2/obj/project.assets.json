@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UAM\\Progra4\\Tarea2\\Tarea#2\\PrograIVTarea2\\PrograIVTarea2\\PrograIVTarea2.csproj",
+      "projectUniqueName": "D:\\UAM\\Progra4\\Tarea2\\Tarea2\\PrograIVTarea2\\PrograIVTarea2.csproj",
       "projectName": "PrograIVTarea2",
-      "projectPath": "D:\\UAM\\Progra4\\Tarea2\\Tarea#2\\PrograIVTarea2\\PrograIVTarea2\\PrograIVTarea2.csproj",
+      "projectPath": "D:\\UAM\\Progra4\\Tarea2\\Tarea2\\PrograIVTarea2\\PrograIVTarea2.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "D:\\UAM\\Progra4\\Tarea2\\Tarea#2\\PrograIVTarea2\\PrograIVTarea2\\obj\\",
+      "outputPath": "D:\\UAM\\Progra4\\Tarea2\\Tarea2\\PrograIVTarea2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
